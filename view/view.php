@@ -104,10 +104,6 @@
                 // require_once "./view/body/productView/productView.php";
               }
             }
-
-
-
-
             ?>
           </div>
   </div>
