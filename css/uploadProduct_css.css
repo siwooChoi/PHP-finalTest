@@ -1,0 +1,78 @@
+
+body{
+  background-color: black;
+  background-image: url("../imgs/bg/bg8.jpg");
+  background-position: top;
+  background-repeat: no-repeat;
+  color:white;
+
+}
+
+.product_ptag{
+  position: absolute;
+  top:110px;
+  left:270px;
+}
+
+.product_table{
+  position: absolute;
+  top:200px;
+  left:190px;
+}
+
+.p_img{
+  position: absolute;
+  margin-left: 30px;
+  width: 150px;
+}
+
+.p_name{
+  position: absolute;
+  margin-left: 30px;
+  width: 150px;
+  text-align: center;
+}
+
+.p_price{
+  position: absolute;
+  margin-left: 46px;
+  width: 150px;
+  text-align: center;
+}
+
+.p_comment{
+  position: absolute;
+  margin-left: 46px;
+  width: 150px;
+  text-align: center;
+}
+
+.p_type{
+  position: absolute;
+  margin-left: 46px;
+  width: 154px;
+
+}
+
+.p_amount{
+  position: absolute;
+  margin-left: 46px;
+  width:150px;
+  text-align: center;
+}
+
+.p_detail{
+  position: absolute;
+}
+
+.upload_button{
+  position: absolute;
+  top:350px;
+  left:120px;
+}
+
+.cancel_button{
+  position: absolute;
+  top:350px;
+  left:200px;
+}

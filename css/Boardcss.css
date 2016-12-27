@@ -1,0 +1,121 @@
+body{
+
+  background-color: black;
+  height: 600px;
+
+}
+
+#bodyLine{
+  background-image: url("../imgs/sbg/sbg2.jpg");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size:100%, 100%;
+
+  height: 600px;
+  color:white;
+}
+
+.create_textbox{
+  position: absolute;
+  top:370px;
+  left: 200px;
+}
+
+.upb1{
+  position: absolute;
+  left:540px;
+}
+.upb2{
+  position: absolute;
+  left:630px;
+}
+
+.createcomment{
+  position: absolute;
+  left:75%;
+  top:45%;
+}
+
+.createcon{
+  position: absolute;
+  top:30%;
+  right: 20%;
+}
+.ftable{
+  position: absolute;
+  top: 370px;
+  margin-left: 10%;
+  width: 70%;
+}
+
+.ftable2{
+  position: absolute;
+  width:70%;
+  margin-left: 10%;
+  top:445px;
+}
+
+.read_modi{
+  position: absolute;
+  top:720;
+  left:850px;
+}
+
+.read_dele{
+  position: absolute;
+  top:720;
+  left:930px;
+}
+
+.read_back{
+  position: absolute;
+  top:720;
+  left:1030px;
+}
+
+.uploadButton{
+  position: absolute;
+  left:20%;
+}
+
+.uploadButton2{
+  position: absolute;
+  margin-top: 30%;
+}
+
+
+  table tr td {
+
+    color:white;
+  }
+
+.memo_row_modi{
+  position: absolute;
+  top:50px;
+  left: 200px;
+  color:white;
+}
+
+.modi_modi{
+  position: absolute;
+  left:500px;
+}
+
+.modi_can{
+  position: absolute;
+  left:590px;
+}
+
+.boardtable1{
+  position: absolute;
+  top: 45%;
+  width:70%;
+  left:130px;
+}
+
+.boardtable2{
+  position: absolute;
+  top: 50%;
+  width:70%;
+  left:130px;
+}

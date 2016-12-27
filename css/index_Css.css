@@ -1,0 +1,110 @@
+
+  /*3학년교실 모니터 해상도 1140 * 912*/
+
+  body{
+    background-color: black;
+    color:white;
+  }
+
+
+  main_div{
+    position: relative;
+    min-width: : 1140px;
+    min-height: 800px;
+    max-width:1920px;
+    max-height: 1024px;
+  }
+
+   #headerLine{
+     position: absolute;
+     width: 1140px;
+     height:200px;
+     background-color: green;
+   }
+
+   #logo{
+    position: absolute;
+     width: 240px;
+     height:200px;
+     /*background-color: pink;*/
+   }
+
+   #search{
+    position: absolute;
+    left:240px;
+    width: 650px;
+    height:200px;
+    /*background-color: #aaaaaa;*/
+    background-image:url('../imgs/bg/bg4.jpg');
+    background-position:left;
+   }
+
+
+   #login{
+     position: absolute;
+     left:890px;
+     width:250px;
+     height: 200px;
+     background-color: black;
+     color:white;
+   }
+
+   #menu{
+    position: relative;
+    top:200px;
+    width: 1140px;
+     height:100px;
+     background-color: black;
+   }
+
+   .menulist{
+    float:left;
+     width: 180px;
+     height: 50px;
+     margin:25px;
+     margin-left: 70px;
+     background-color: black;
+     color:white;
+     line-height:50px;
+     text-align: center;
+   }
+
+
+   #bodyLine{
+    position: absolute;
+    top:300px;
+    width: 1140px;
+    height: auto;
+     /*background-color: #444444;*/
+     background-image: url("../imgs/black_bg.png");
+   }
+
+   .detail_bodyLine{
+     position: absolute;
+     top:300px;
+     width: 1140px;
+     height: 700px;
+      background-color: #444444;
+      /*background-image: url("../imgs/black_bg.png");*/
+      color:white;
+     }
+
+   .main_product{
+    position: absolute;
+     color:white;
+     /*top:300px;*/
+   }
+
+   .login_button{
+     position: absolute;
+     height: 43px;
+     left:170px;
+     top:55px;
+   }
+
+   .createUser_button{
+     position: absolute;
+     width: 195px;
+     left:33px;
+     top:105px;
+   }

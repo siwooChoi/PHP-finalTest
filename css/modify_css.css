@@ -1,0 +1,123 @@
+
+body{
+
+  background-color: black;
+  background-image: url("../imgs/bg/bg8.jpg");
+  background-position: right;
+
+  background-repeat: no-repeat;
+
+
+
+
+}
+
+.modify_title{
+  border: 1px solid white;
+  margin-top: 100px;
+  width:400px;
+  height:20px;
+  margin-left: 390px;
+  text-align: center;
+  color:white;
+}
+
+.modify_form{
+  padding-left:50px;
+  padding-right:50px;
+  border: 1px solid white;
+  margin-top: 90px;
+  width:300px;
+  margin-left: 390px;
+  color: white;
+
+}
+
+
+.modifybox1{
+  position: absolute;
+  left:580px;
+  top:240px;
+}
+
+.modifybox2{
+  position: absolute;
+  width: 195px;
+  left:530px;
+  top:265px;
+}
+
+.modifybox3{
+  position: absolute;
+  width: 195px;
+  left:530px;
+  top:285px;
+}
+
+.modifybox4{
+  position: absolute;
+  width: 195px;
+  left:530px;
+  top:305px;
+}
+
+.modifybox5{
+  position: absolute;
+  width: 195px;
+  left:530px;
+  top:325px;
+}
+
+.modifytel1{
+  position: absolute;
+  left:530;
+  width:40px;
+  text-align:center;
+}
+
+.telofbar1{
+  position: absolute;
+  left:572px;
+}
+
+
+.modifytel2{
+  position: absolute;
+  width: 40px;
+  left: 580px;
+  text-align:center;
+}
+
+.telofbar2{
+  position: absolute;
+  left:622px;
+}
+
+.modifytel3{
+  position: absolute;
+  width: 40px;
+  left: 630px;
+  text-align:center;
+}
+
+.modify_email1{
+  position: absolute;
+  top:368px;
+  left:530px;
+  text-align:center;
+  width:120px;
+}
+
+.emailofsea{
+  position: absolute;
+  top: 387px;
+  left:530px;
+}
+
+.modify_email2{
+  position: absolute;
+  top:390px;
+  left:550px;
+  text-align:center;
+  width:120px;
+}

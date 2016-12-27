@@ -1,0 +1,119 @@
+
+body{
+
+  background-color: black;
+  background-image: url("../imgs/bg/bg8.jpg");
+  background-position: top;
+  background-repeat: no-repeat;
+  color:white;
+
+}
+
+.createUser_title{
+  border: 1px solid white;
+  margin-top: 150px;
+  width:400px;
+  height:20px;
+  margin-left: 190px;
+  text-align: center;
+  color:white;
+}
+
+.createUser_table{
+  padding-left:50px;
+  padding-right:50px;
+  width:400px;
+  border: 1px solid white;
+  margin-top: px;
+  margin-left: 190px;
+  color: white;
+
+}
+
+
+.createbox1{
+  position: absolute;
+  margin-left: 33px;
+  width: 152px;
+}
+
+.createUserbox2{
+  position: absolute;
+  margin-left: 30px;
+  width: 152px;
+}
+
+.createUserbox3{
+  position: absolute;
+  margin-left: 30px;
+  width: 152px;
+}
+
+.createUserbox4{
+  position: absolute;
+  margin-left: 9px;
+  width: 152px;
+}
+
+.createUserbox5{
+  position: absolute;
+  margin-left: 18px;
+  width: 152px;
+}
+
+.createUsertel1{
+  position: absolute;
+  margin-left: 30px;
+  width:40px;
+  text-align:center;
+}
+
+.telofbar1{
+  position: absolute;
+  margin-left: 76px;
+}
+
+
+.createUsertel2{
+  position: absolute;
+  margin-left: 85px;
+  width:40px;
+  text-align:center;
+}
+
+.telofbar2{
+  position: absolute;
+  margin-left: 132px;
+}
+
+.createUsertel3{
+  position: absolute;
+  margin-left: 142px;
+  width:40px;
+  text-align:center;
+}
+
+.createUser_email1{
+  position: absolute;
+  margin-left: 16px;
+  text-align:center;
+  width:125px;
+}
+
+.emailofsea{
+  position: absolute;
+  margin-top: 24px;
+  margin-left: 20px;
+}
+
+.createUser_email2{
+  position: absolute;
+  margin-top:27px;
+  margin-left: 43px;
+  text-align:center;
+  width:125px;
+}
+ .create{
+
+   margin-left: 130px;
+ }
